@@ -22,7 +22,6 @@ SOCIAL_ICONS = [
 
 THEME_COLOR = '#FF8000'
 
-
 # Pelican settings
 RELATIVE_URLS = True
 SITEURL = 'http://joshshavers.com'
