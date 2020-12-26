@@ -2,6 +2,7 @@
 SITENAME = 'Josh Shavers'
 DOMAIN = 'joshshavers.com'
 # BIO_TEXT = ''
+
 FOOTER_TEXT = 'Powered by <a href="http://getpelican.com">Pelican>.'
 
 SITE_AUTHOR = 'Josh Shavers'
