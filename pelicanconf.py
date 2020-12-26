@@ -82,7 +82,6 @@ extras = ['CNAME', 'favicon.ico', 'keybase.txt', 'robots.txt']
 EXTRA_PATH_METADATA = {'extra/%s' % file: {'path': file} for file in extras}
 
 PLUGIN_PATHS = ['./plugins']
-# PLUGINS = None
 PLUGINS = ['plugins.assets', 'plugins.neighbors', 'plugins.render_math']
 ASSET_SOURCE_PATHS = ['static']
 ASSET_CONFIG = [
